@@ -1,0 +1,26 @@
+{
+  "name": "discord-clone",
+  "version": "0.0.1",
+  "description": "Early Alpha of discord-clone",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trent1122/discord-clone.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Trent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trent1122/discord-clone/issues"
+  },
+  "homepage": "https://github.com/Trent1122/discord-clone#readme",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.17.1"
+  }
+}
